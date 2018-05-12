@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4800'
     url: http://www.gutenberg.org/2009/agents/4800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13051#Sketches-of-Japanese-Manners-and-Customs
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
 identifiers:
